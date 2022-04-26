@@ -42,6 +42,7 @@ namespace Practica_Control_Versiones
             // 
             // button1
             // 
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Location = new System.Drawing.Point(683, 57);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(105, 45);
@@ -103,11 +104,11 @@ namespace Practica_Control_Versiones
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(591, 22);
+            this.label3.Location = new System.Drawing.Point(618, 22);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(74, 16);
+            this.label3.Size = new System.Drawing.Size(49, 16);
             this.label3.TabIndex = 7;
-            this.label3.Text = "Teléfono:";
+            this.label3.Text = "Movil:";
             // 
             // label4
             // 
