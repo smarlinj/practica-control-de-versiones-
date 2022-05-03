@@ -1,0 +1,10 @@
+C:\Users\jimenez21784\Source\Repos\smarlinj\practica-control-de-versiones-\Practica Control Versiones\Practica Control Versiones\bin\Debug\Practica Control Versiones.exe.config
+C:\Users\jimenez21784\Source\Repos\smarlinj\practica-control-de-versiones-\Practica Control Versiones\Practica Control Versiones\bin\Debug\Practica Control Versiones.exe
+C:\Users\jimenez21784\Source\Repos\smarlinj\practica-control-de-versiones-\Practica Control Versiones\Practica Control Versiones\bin\Debug\Practica Control Versiones.pdb
+C:\Users\jimenez21784\Source\Repos\smarlinj\practica-control-de-versiones-\Practica Control Versiones\Practica Control Versiones\obj\Debug\Practica Control Versiones.csproj.AssemblyReference.cache
+C:\Users\jimenez21784\Source\Repos\smarlinj\practica-control-de-versiones-\Practica Control Versiones\Practica Control Versiones\obj\Debug\Practica_Control_Versiones.Form1.resources
+C:\Users\jimenez21784\Source\Repos\smarlinj\practica-control-de-versiones-\Practica Control Versiones\Practica Control Versiones\obj\Debug\Practica_Control_Versiones.Properties.Resources.resources
+C:\Users\jimenez21784\Source\Repos\smarlinj\practica-control-de-versiones-\Practica Control Versiones\Practica Control Versiones\obj\Debug\Practica Control Versiones.csproj.GenerateResource.cache
+C:\Users\jimenez21784\Source\Repos\smarlinj\practica-control-de-versiones-\Practica Control Versiones\Practica Control Versiones\obj\Debug\Practica Control Versiones.csproj.CoreCompileInputs.cache
+C:\Users\jimenez21784\Source\Repos\smarlinj\practica-control-de-versiones-\Practica Control Versiones\Practica Control Versiones\obj\Debug\Practica Control Versiones.exe
+C:\Users\jimenez21784\Source\Repos\smarlinj\practica-control-de-versiones-\Practica Control Versiones\Practica Control Versiones\obj\Debug\Practica Control Versiones.pdb

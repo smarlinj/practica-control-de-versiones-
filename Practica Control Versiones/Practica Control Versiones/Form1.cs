@@ -16,5 +16,15 @@ namespace Practica_Control_Versiones
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+               textBox4.Text+=$"{ textBox1.Text}                                                                     { textBox2.Text}                                                                     { textBox3.Text} ";
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            
+        }
     }
 }

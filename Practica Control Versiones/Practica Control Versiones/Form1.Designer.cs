@@ -29,6 +29,7 @@ namespace Practica_Control_Versiones
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.button1 = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
@@ -42,12 +43,14 @@ namespace Practica_Control_Versiones
             // 
             // button1
             // 
+            this.button1.BackColor = System.Drawing.Color.DarkSlateGray;
             this.button1.Location = new System.Drawing.Point(683, 57);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(105, 45);
             this.button1.TabIndex = 0;
             this.button1.Text = "Agregar";
-            this.button1.UseVisualStyleBackColor = true;
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // textBox1
             // 
@@ -55,6 +58,7 @@ namespace Practica_Control_Versiones
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(144, 20);
             this.textBox1.TabIndex = 1;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // textBox2
             // 
@@ -72,12 +76,14 @@ namespace Practica_Control_Versiones
             // 
             // textBox4
             // 
+            this.textBox4.BackColor = System.Drawing.Color.AntiqueWhite;
             this.textBox4.Location = new System.Drawing.Point(12, 124);
             this.textBox4.Multiline = true;
             this.textBox4.Name = "textBox4";
             this.textBox4.ReadOnly = true;
             this.textBox4.Size = new System.Drawing.Size(776, 284);
             this.textBox4.TabIndex = 4;
+            this.textBox4.Text = resources.GetString("textBox4.Text");
             // 
             // label1
             // 
@@ -123,6 +129,7 @@ namespace Practica_Control_Versiones
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ControlText;
             this.ClientSize = new System.Drawing.Size(800, 419);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -133,6 +140,7 @@ namespace Practica_Control_Versiones
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button1);
+            this.ForeColor = System.Drawing.Color.DarkTurquoise;
             this.Name = "Form1";
             this.Text = "Grabar Socio";
             this.ResumeLayout(false);
